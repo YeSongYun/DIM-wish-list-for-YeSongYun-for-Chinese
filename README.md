@@ -7,7 +7,7 @@
 
 我很努力的在GitHub上尽量使用中文，令人遗憾的是，标题只能用英文，中文不能识别
 
-b站教程视频：https://www.bilibili.com/video/BV13E421L7ZB/?share_source=copy_web&vd_source=28f8f5f13e40ab01eafa4c84779eb390
+b站教程视频：https://b23.tv/GhlM6fq
 
 愿望单完善中
 
