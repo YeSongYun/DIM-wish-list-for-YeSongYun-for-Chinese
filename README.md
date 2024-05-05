@@ -7,7 +7,7 @@
 
 我很努力的在GitHub上尽量使用中文，令人遗憾的是，标题只能用英文，中文不能识别
 
-b站教程视频正在制作中
+b站教程视频：<iframe src="//player.bilibili.com/player.html?aid=1654125474&bvid=BV13E421L7ZB&cid=1531289333&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 愿望单完善中
 
