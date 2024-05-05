@@ -9,6 +9,8 @@
 
 b站教程视频：https://b23.tv/GhlM6fq
 
+夜松云的爱发电，欢迎投喂：https://afdian.net/a/yesongyun
+
 愿望单完善中
 
 详细的使用方法和详细信息请到上方导航栏找到WiKi查看
