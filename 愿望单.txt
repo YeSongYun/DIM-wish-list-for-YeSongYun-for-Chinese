@@ -108,3 +108,5 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 dimwishlist:item=5159537&perks=968510818,124408337
 //notes:激流的核心是冰冷弹匣
 dimwishlist:item=2715240478&perks=2978966579
+//notes:信任
+dimwishlist:item=2850664015&perks=1168162263,4293542123
