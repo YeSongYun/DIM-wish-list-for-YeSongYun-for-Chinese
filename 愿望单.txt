@@ -108,6 +108,8 @@ dimwishlist:item=2806569825&perks=1523832109,555281244
 dimwishlist:item=5159537&perks=968510818,124408337
 //notes:激流的核心是冰冷弹匣
 dimwishlist:item=2715240478&perks=2978966579
+//notes:激流自填加斩首武器用来三切补输出也很好用！
+dimwishlist:item=2715240478&perks=3300816228,1546637391
 //notes:信任
 dimwishlist:item=2850664015&perks=1168162263,4293542123
 //notes:怀旧未来主义者
@@ -115,5 +117,4 @@ dimwishlist:item=1612781792&perks=3300816228,2360754333,2509860981
 //notes:碾压火箭筒
 dimwishlist:item=1903182562&perks=2869569095,3927722942,400811637
 //notes:阿米特AR2锻造，pvpperk，破例弄了个pvpperk，因为我是手柄玩家，用这个还蛮好用的
-dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,1523649716
-
+dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,152364971
