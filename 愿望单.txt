@@ -43,6 +43,8 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=968510818,3194351027
 //notes:核心终结IV，世界掉落的武器，二号位如果是冲击弹壳就更好了
 dimwishlist:item=1719687748&perks=2284787283,3194351027
+//notes:我对输出boos有了新的理解，我觉得重建会更好一些，因为重建可以自填，收起武器会自动填装。
+dimwishlist:item=1719687748&perks=1523832109,3194351027
 //notes:陨落铡刀，一把有急切刀锋，还有伤害的武器！
 dimwishlist:item=1815105249&perks=2077819806
 //notes:伊鲁康吉，可以打boos的时候补充伤害，射速很快的狙击枪
