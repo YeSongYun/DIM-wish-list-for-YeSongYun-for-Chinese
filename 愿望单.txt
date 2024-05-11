@@ -126,3 +126,9 @@ dimwishlist:item=839786290&perks=968510818,3078487919
 dimwishlist:item=105306149&perks=839105230,1087426260,1748774930,2939589096
 //notes:强音-45
 dimwishlist:item=4233375372&perks=3400784728,831391274
+//notse:极速快感,有边打边劫
+dimwishlist:item=2026755633&perks=3700496672,3891536761
+//notes:神圣起源,这是一把pvp的枪，只有pvp的perk
+dimwishlist:item=2408405461&perks=247725512,1015611457
+//notes:鲁莽神谕,这个东西的perk池真不行，分解吧
+dimwishlist:item=3385326721&perks=1168162263,1015611457
