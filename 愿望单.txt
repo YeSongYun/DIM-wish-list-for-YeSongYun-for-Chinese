@@ -56,7 +56,7 @@ dimwishlist:item=3098328572&perks=4071163871,3708227201
 //notes:看护人锻造
 dimwishlist:item=2508948099&perks=3666208348,3625355092,1646437399,2675184851
 //notes:空容器，斩首+自填
-dimwishlist:item=4255586669&perks=1546637391,744217850
+dimwishlist:item=4255586669&perks=3300816228,1546637391
 //notes:艾尔西的步枪
 dimwishlist:item=2372514509&perks=3418782618,2048641572
 //notes:月之狂嚎，击杀后换弹奶自己和队友
