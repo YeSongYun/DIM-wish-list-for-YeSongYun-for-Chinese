@@ -162,3 +162,5 @@ dimwishlist:item=963710795&perks=1523832109,2978966579
 dimwishlist:item=1107446438&perks=247725512,1015611457
 //notes:蔷薇的蔑视(专家)，嫉妒刺客+后半弹匣增伤
 dimwishlist:item=2890082420&perks=968510818,2213355989
+//notes:夜神长存V,受控连射+嫉妒刺客
+dimwishlist:item=2767393525&perks=968510818,2594592626
