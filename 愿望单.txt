@@ -2,6 +2,10 @@ title:命运2 DIM愿望单
 description:夜松云制作的DIM愿望单，现在并不全面，将会随着夜松云的游玩逐渐完善。为了杜绝选择恐惧症，每把枪我只选择一个perk作为推荐。夜松云不玩pvp所以只有pve的perk推荐。欢迎去b站关注夜松云咩，关注夜松云谢谢喵！
 //notes:山巅推荐自填重组，山巅打伤害需要减小爆炸范围
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
+//notes:斩首+自填
+dimwishlist:item=568611922&perks=3300816228,1546637391
+//notes:重组+自填
+dimwishlist:item=568611922&perks=3300816228,469285294
 //notes:蒙恩的核心perk是福特子弹，有这个了就可以拿着用。
 dimwishlist:item=3381450498&perks=2173046394
 //notes:最佳perk
