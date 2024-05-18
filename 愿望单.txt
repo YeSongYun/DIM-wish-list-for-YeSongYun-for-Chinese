@@ -90,8 +90,8 @@ dimwishlist:item=1019000888&perks=3700496672,3038247973
 dimwishlist:item=1019000888&perks=3700496672,1546637391
 //notes:蠕虫低语锻造，首先是稳定性，减少后坐力才能打的准。
 dimwishlist:item=1983149589&perks=3661387068,3177308360,777589556,4259401308,3732232161
-//notes:灾变（专家）锻造perk
-dimwishlist:item=2886339027&perks=839105230,1687452232,848860060,3744057135
+//notes:灾变（专家）锻造perk，诱导推销+事不过四
+dimwishlist:item=999767358&perks=839105230,1687452232,848860060,3744057135
 //notes:纪念锻造perk
 dimwishlist:item=4230965989&perks=839105230,3230963543,848860060,395388285
 //notes:弥达的清算锻造perk
@@ -154,7 +154,11 @@ dimwishlist:item=875848769&perks=2846385770,4082225868
 dimwishlist:item=4100775158&perks=1428297954,2458213969
 //notes:希律-C,也是智谋的枪
 dimwishlist:item=1788603939&perks=1354429876,1546637391
+//notes:有边打边劫留！
+dimwishlist:item=1788603939&perks=3700496672
 //notes:奥凡迪尔FR6，有冰冷弹匣！众所周知激流也有！
 dimwishlist:item=963710795&perks=1523832109,2978966579
 //notes:仆从首领
 dimwishlist:item=1107446438&perks=247725512,1015611457
+//notes:蔷薇的蔑视(专家)，嫉妒刺客+后半弹匣增伤
+dimwishlist:item=2890082420&perks=968510818,2213355989
