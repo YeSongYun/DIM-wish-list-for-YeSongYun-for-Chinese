@@ -205,3 +205,11 @@ dimwishlist:item=1064132738&perks=3300816228,3927722942
 dimwishlist:item=1064132738&perks=1275731761,3927722942
 //notes:锤头，清理怪的
 dimwishlist:item=1896309757&perks=2779035018,557221067
+//notes:雅罗维特MG4，可以直接分解
+dimwishlist:item=3959549446&perks=3418782618,3324494224
+//notes:宣召呼唤锻造,斩首主武器+20%伤害，这是一把主武器火箭架构的手枪，估计会很离谱
+dimwishlist:item=3947966653&perks=3798852852,106909392,3442762221,3418165135
+//notes:帕拉贝伦,可以直接分解
+dimwishlist:item=3926811686&perks=3017780555,4104185692
+//notes:测地HSM，虚空护盾覆盖
+dimwishlist:item=3637669759&perks=776531651,2048641572
