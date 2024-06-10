@@ -241,7 +241,7 @@ dimwishlist:item=1151688091&perks=2010801679,2173046394
 //notes:暮光誓言,狙击枪
 dimwishlist:item=1874424704&perks=968510818,1546637391
 dimwishlist:item=1874424704&perks=968510818,555281244
-//notes:IKELOS_SG_V1.0.3锻造，这个喷子贼难刷，吐了
+//notes:IKELOS_SG_V1.0.3锻造，这个喷子贼难刷，吐了！
 dimwishlist:item=1168625549&perks=1047830412,106909392,402033656,788178929
 //notes:静待回归，没看出强度，可以分解
 dimwishlist:item=250721843&perks=1749209109,4293542123
