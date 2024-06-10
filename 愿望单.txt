@@ -245,3 +245,5 @@ dimwishlist:item=1874424704&perks=968510818,555281244
 dimwishlist:item=1168625549&perks=1047830412,106909392,402033656,788178929
 //notes:静待回归，没看出强度，可以分解
 dimwishlist:item=250721843&perks=1749209109,4293542123
+//notes:挽歌,缚丝泰坦的好帮手
+dimwishlist:item=3487253372&perks=
